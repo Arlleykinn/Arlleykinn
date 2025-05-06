@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Arlleykinn
 
-<!--
-**Arlleykinn/Arlleykinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Entusiasta de desenvolvimento web e apaixonado por tecnologia.  
+🎯 Atualmente focado em aprimorar minhas habilidades como programador Full Stack.  
+📈 Explorando o mundo da automação, inteligência artificial e soluções criativas para problemas reais.  
+🌍 Trabalhando com projetos voltados à performance, design limpo e boas práticas de código.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou aprendendo:
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Python (para automação e lógica)
+- Desenvolvimento de agentes de IA
+- Frameworks no-code e low-code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Áreas de Interesse:
+- Agentes de IA personalizados
+- Desenvolvimento de sistemas autônomos
+- Criação de landing pages para negócios locais
+- Estratégias de crescimento pessoal com tecnologia
+
+## 📚 Projetos e Aprendizado
+- Em constante evolução com foco em construir uma base sólida de conhecimento e portfólio de soluções.
+- Buscando a excelência em cada linha de código e em cada projeto compartilhado.
+
+> "_Already up to date._" — Porque o aprendizado nunca para. 😉
+
+📫 **Entre em contato comigo:**  
+[Email: arlleykinn@gmail.com](mailto:arlleykinn@gmail.com)
+
+---
+
