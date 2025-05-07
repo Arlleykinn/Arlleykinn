@@ -13,9 +13,9 @@
 - Frameworks no-code e low-code
 
 ## 🧠 Áreas de Interesse:
+- Criação de landing pages para negócios locais
 - Agentes de IA personalizados
 - Desenvolvimento de sistemas autônomos
-- Criação de landing pages para negócios locais
 - Estratégias de crescimento pessoal com tecnologia
 
 ## 📚 Projetos e Aprendizado
